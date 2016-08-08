@@ -9,7 +9,7 @@ configurations {
 nuget {
 	nuspec {
 		id = pugixml;
-		version: 1.7.1;
+		version: 1.7.2;
 
 		authors: {Arseny Kapoulkine};
 		owners: {Arseny Kapoulkine};
